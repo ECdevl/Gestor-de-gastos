@@ -13,8 +13,9 @@ A personal finance management application built with Python Flet, designed to he
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img width="694" height="748" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0857ea41-3eb9-4acd-9894-f620f019394c" />
+<img width="698" height="753" alt="Screenshot_2" src="https://github.com/user-attachments/assets/6e0b4bdb-132f-44b6-8836-b23c30e36f94" />
+
 
 ## 🛠️ Built With
 
